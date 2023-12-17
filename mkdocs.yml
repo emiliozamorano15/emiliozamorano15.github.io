@@ -1,5 +1,10 @@
 site_name: Dr. Emilio Zamorano de Acha
 site_url: https://emiliozamorano15.github.io
+
+nav:
+  - Home: index.md
+  - About: about.md
+
 theme:
   name: material
   features:
@@ -30,11 +35,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: https://github.com/emiliozamorano15
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://www.linkedin.com/in/emiliozamoranodeacha/
 
 markdown_extensions:
   - pymdownx.highlight:
