@@ -3,7 +3,7 @@ site_url: https://emiliozamorano15.github.io
 
 nav:
   - Home: index.md
-  - About: about.md
+  # - About: about.md
 
 theme:
   name: material
